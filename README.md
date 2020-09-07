@@ -29,8 +29,9 @@ There are solutions for point 4) for both blogs and Twitter, but vim is a more "
 ## Why are you doing this?
 
 This is first and foremost a personal exercise.
+As I detail in [this file](https://github.com/KennanFrench/Public-Musings/blob/master/beliefs-about-beliefs.md), I don't think that all of my beliefs are correct.
 Collecting my thoughts, putting words to them, and (especially) supporting them with citations helps them to become better over time.
-Hopefully, this exercise I also don't do much longform writing these days, and this should help fix that. 
+I also don't do much longform writing these days, and this should help fix that. 
 
 I am *not* doing this because I think that I have any special insight on the world, or out of some solipsistic idea that my ideas are the important ones.
 Indeed, if this exercise works out the way that I expect, I would encourage anyone to do this (and for anyone to take anyone else's thoughts seriously and in good faith (which I would encourage regardless of how this exercise goes)).
