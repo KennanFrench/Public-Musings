@@ -3,7 +3,7 @@
 ### What is skyr?
 
 Skyr is an Icelandic type of yogurt (I've also heard that it's technically a cheese, though I forget why; regardless, you eat it like yogurt).
-It's very thick, tasty and has way more protein and helpful bacteria than most yogurt.
+It's tasty, very thick, and has way more protein and helpful bacteria than most yogurt.
 
 ### Why am I making it?
 
@@ -11,23 +11,23 @@ It's very thick, tasty and has way more protein and helpful bacteria than most y
 
 2) Simple recipe: Heat milk, cool milk, add some skyr as a starter (much like sourdough starter), keep warm and then refrigerate.
 
-2a) Deceptively hard to get right!
+3) Deceptively hard to get right!
 I'll talk about that more below.
 Obviously, I didn't know this when I first started.
 
-3) I love self-feeding recipes!
+4) I love self-feeding recipes!
 They're so cool.
 I don't have a sourdough starter going, because I don't want to commit to making it regularly, but my plan is to make a new batch of skyr each week; this should only be a commitment of about 30 minutes of active work, as it's mostly waiting.
 
-4) Iceland is high up (probably #1, really) on my list of countries I'd like to visit if this pandemic ever ends.
+5) Iceland is high up (probably #1, really) on my list of countries I'd like to visit if this pandemic ever ends.
 
 ### Story time! Why's it deceptively hard?
 
-As I write this, I'm in the process of perhaps, if I had to guess, my 8th attempt at making skyr at home.
-I've had two moderate successes, in that the last two batches have seemed to allow the bacteria to proliferate and the end result tasted pretty much like Siggi's.
-However, they both turned out with a texture more like cottage cheese than thick yogurt.
+As I write this, I'm in the process of maybe, if I had to guess, my 8th attempt at making skyr at home.
+I've had two moderate successes, in that the last two batches have seemed to allow the bacteria to proliferate and the end result tasted pretty much like Siggi's (the one brand of skyr that my grocery store carries, which I've been eating with lunch during quarantine and using as my starter).
+However, both batches turned out with a texture more like cottage cheese than thick yogurt.
 Since it's not a particularly popular food outside of Iceland, it's hard to find guidance on problems like this.
-(Big shoutout to /u/Bignezzy on Reddit, whose [post](https://www.reddit.com/r/Iceland/comments/g414eq/made_some_lemon_flavored_skyr/) on /r/Iceland is where I learned about skyr in the first place and who helped me get my first semi-successful batches.)
+(Big shoutout to /u/Bignezzy on Reddit, whose [post](https://www.reddit.com/r/Iceland/comments/g414eq/made_some_lemon_flavored_skyr/) on /r/Iceland is where I learned about skyr in the first place and who helped me get my first semi-successful batch.)
 So for the batch I'm working on now, I've turned to [this yogurt troubleshooting guide](https://www.kitchenstewardship.com/homemade-yogurt-troubleshooting-guide/) in hopes that my texture problem is the same.
 What I'm doing differently this batch, based on that guide, is keeping a much closer eye on the temperature during the skyr's rest peroid.
 
@@ -55,7 +55,7 @@ As I understand it, you're supposed to dilute it with water; I've been using the
 So, getting back to story time, you've probably noticed that three things I've mentioned are related: that this time I'm going to keep a closer eye on the skyr's resting temperature, that my crockpot's one temperature is 120°F, and that the recipe says to keep it at 110°F for 4 hours.
 In my last batch, I checked the temperature about half an hour after I first put it in the crock pot and it was still around 110°, but I checked again after the 4 hours and it had climbed all the way to 135°!
 So my plan this time is to check the temperature every half hour or so and if it's above 115°, unplug the crockpot.
-It seems to hold heat pretty well (I suspect that's why it got so far above 120° in the first place), so I'll let it sit unplugged until the next time I check it and then, likely, plug it back in and repeat until the 4 hours are up.
+The skyr seems to hold heat pretty well (I suspect that's why it got so far above 120° in the first place), so I'll leave the crock pot unplugged until the next time I check it and then, likely, plug it back in and repeat until the 4 hours are up.
 
 That's about all I have for now, other than that I'd like to quickly describe some of my failed attempts.
 I tried a few times to follow more closely the second recipe, and went through several combinations of it and the first recipe.
