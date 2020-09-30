@@ -65,3 +65,17 @@ The one failed batch I've had since making that switch was just me forgetting to
 That batch did set (again into the same cottage cheese texture I'm trying to fix now), but tasted pretty awful and pretty unlike what skyr should taste like.
 Would not recommend.
 
+### Update 2020/09/29
+
+The last batch turned out with the cottage cheese texture as well 😢
+I have several new things to try for next time though.
+First (as mentioned in the OP), there's fixing the ratio of milk to starter.
+Second, when I was checking the temperature of the skyr as it rested, it warmed to 130° much faster than I expected.
+It was still around 110° when I checked it after the first half hour, but by the next check, it was already up to 130°!
+I think next time, I'll let the crock pot get up to 110° before I transfer the skyr, then unplug it once I do and leave it like that with the lid on.
+Then I'll check the temperature and plug it in (for much less than half an hour, maybe 10 minutes or so) only when it needs to get back up to 110°.
+I think the rennet and the skyr bacteria should be fine down to 90° or so, but I'll try to keep it in the 100-110° range.
+The last thing I will change for next time is how I separate the curds.
+I've been straining it with a cheesecloth as soon as I take it off of its resting heat, but after looking up what a yogurt strainer is, I think I might be supposed to let it chill and strain at the same time.
+
+(Endnote to this update: I think this is probably how I'll continue to update this post, leaving the OP intact and appending updates as I experiment with new batches (at least until I get to a point where I can consistently get everything right, after which I'll probably do a lot of restructuring))
