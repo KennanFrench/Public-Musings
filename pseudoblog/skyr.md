@@ -79,3 +79,10 @@ The last thing I will change for next time is how I separate the curds.
 I've been straining it with a cheesecloth as soon as I take it off of its resting heat, but after looking up what a yogurt strainer is, I think I might be supposed to let it chill and strain at the same time.
 
 (Endnote to this update: I think this is probably how I'll continue to update this post, leaving the OP intact and appending updates as I experiment with new batches (at least until I get to a point where I can consistently get everything right, after which I'll probably do a lot of restructuring))
+
+### Update 2020/10/04
+
+Well, I made a mistake that I'd already made: I forgot to let it cool from 180° to 110° before mixing in the starter and rennet.
+I'm going to try and salvage it by letting that mixture cool to 110° and then adding it to some starter and rennet that haven't been ruined, but I don't have high hopes.
+I should leave myself a note above my stove next time to not do this.
+
