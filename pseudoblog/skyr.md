@@ -86,3 +86,15 @@ Well, I made a mistake that I'd already made: I forgot to let it cool from 180°
 I'm going to try and salvage it by letting that mixture cool to 110° and then adding it to some starter and rennet that haven't been ruined, but I don't have high hopes.
 I should leave myself a note above my stove next time to not do this.
 
+#### Addendum 2020/10/05
+
+As expected, yesterday's batch didn't turn out.
+I also messed up trying to drain it, but I know how not to next time.
+I've been using a nut milk bag as my cheesecloth, but from the side (i.e. not using it as a bag, but just as two layers of cloth).
+Next time, I'm going to actually use it like a bag.
+This will mean I only get one layer of cloth, but it will make it much easier to manage with the pouring and whatnot.
+Also, a glimmer of hope!
+While most of the batch was still cottage cheese-textured, I did spot some nontrivial yogurt-textured parts!
+I think my new approach to maintaining temperature is showing some promise (I did notice it up to 115° at one point; I'll be more careful next time).
+If I actually do everything according to plan next time, I think my first fully-successful batch is nigh.
+
