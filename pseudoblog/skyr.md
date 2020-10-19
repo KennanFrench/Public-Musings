@@ -102,14 +102,15 @@ If I actually do everything according to plan next time, I think my first fully-
 
 Oh, how wonderful to have found success.
 I had some of yesterday's batch with lunch today and it was (mostly) great.
-There was a bit of a sour aftertaste that was only noticeable after a few bites, but it did end up being a little unpleasant by the end.
-I don't know why I suspect this, but I think it might have something to do with the little bit of whey that I added back in after it had strained overnight.
+There was a bit of a sour aftertaste that was only noticeable after a few bites, but which did end up being a little unpleasant by the end.
+I don't know why I suspect this, but I think it might have something to do with the little bit of whey that I added back in to thin it out after it had strained overnight.
+(Really, I don't think it needed any thinning at all and I'll probably skip that next time, but the second recipe linked mentioned that it's something you can do, so I tried it.)
 Tomorrow, I plan on adding a little bit more sugar (right now as far as "additives" go, it has 1T of sugar and 2 drops of vanilla extract; this is the same ratio of vanilla : skyr as /u/Bignezzy's recipe, with half the sugar : skyr ratio).
-But the texture was much smoother and yogurt-like.
+But the texture was much smoother and yogurt-like, almost identical to Siggi's.
 I'll add pictures later; I have both pre- and post-mixing pictures, but they only exist on my phone right now.
 I do think mixing in the sugar and vanilla turned the texture more liquid; I didn't eat any before I mixed it up (which was a pretty thorough whisking with a fork), but it definitely looked more solid and yogurt-like.
 
-As for next steps, besides fixing the minor issues above, I have a few things still to do.
+As for next steps, besides fixing the minor issues above, I have a few things still I want to do.
 The first is simply feeding another batch with this current one; in theory, it should "just work," but that's far from a guarantee of smooth sailing.
 The second thing is getting a proper yogurt strainer.
 What I ended up doing to simulate one involved pretty extensive rearranging of my fridge, including removing an entire shelf.
@@ -118,9 +119,9 @@ I basically had the bag tied up and hanging from my fridge's bottle rack, above 
 I don't think there's another way to do it in my fridge, so yogurt strainer it is.
 Finally, I want to "productionalize" my process, if you will.
 By this I mean that every step that was dependent on a specific temperature was mostly done by trail-and-error timing (e.g. go check if it's time to turn the stove up yet, check if the milk has cooled down yet, check if the crock pot needs to be plugged back in for a few minutes, etc.).
-Ideally, I'd like to just know how long things took, so I could manage the entire process with a series of timers and be entirely hands-off for even longer.
+Ideally, I'd like to just know how long things take, so I could manage the entire process with a series of timers and be entirely hands-off for even longer.
 As I figure this out, I'll certainly continue logging my attempts here (in Gantt chart form, probably), but I'm not sure if they'll be much use to anyone besides myself; different stoves heat at different speeds, modern crock pots have more control mechanisms than the power cord, etc.
 But they'll be useful for me as I dial in the times, and if they do happen to be useful to others, all the better.
 
-I will post an addendum tomorrow about the sugar!
+I will post an addendum tomorrow with pictures and my findings about adding more sugar!
 
