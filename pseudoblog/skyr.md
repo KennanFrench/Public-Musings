@@ -125,3 +125,24 @@ But they'll be useful for me as I dial in the times, and if they do happen to be
 
 I will post an addendum tomorrow with pictures and my findings about adding more sugar!
 
+### Update 2021/01/01
+
+How meaningful is the difference between "tomorrow" and "next year" anyways?
+
+I had every intention of actually making this post on 2020/10/20, but then I didn't... And then I didn't on the 21st either, or the 22nd, and you get the picture.
+I'm fairly sure I didn't make any more skyr in 2020 after that last update; if I did, it was just the following Sunday.
+Mostly, I stopped because the holidays were coming up, the League of Legends World Championship was in full swing (and in China, so it was tanking my sleep schedule pretty hard), and it seemed likely that I would miss a week sooner or later due to some craziness or other.
+The bad news about putting off this update for several months is that I do not remember at all whether the extra added sugar affected the sour aftertaste.
+The good news is that I do still have the pictures!
+
+Before mixing:
+
+![](photos/skyr-unmixed-2020-10-19.png "Photo of unmixed skyr in a bowl")
+
+After mixing:
+
+![](photos/skyr-mixed-2020-10-19.png "Photo of mixed skyr in a bowl")
+
+I do plan on getting back to this now that it's a new year and there isn't much that I can see coming that would derail my weekly cadence.
+So probably, new post on 2021/01/03 or 04.
+(Also, I have a real yogurt strainer now.)
