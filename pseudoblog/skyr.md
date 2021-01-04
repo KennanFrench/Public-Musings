@@ -146,3 +146,14 @@ After mixing:
 I do plan on getting back to this now that it's a new year and there isn't much that I can see coming that would derail my weekly cadence.
 So probably, new post on 2021/01/03 or 04.
 (Also, I have a real yogurt strainer now.)
+
+### Update 2021/01/04
+
+Well, I thought I did everything right yesterday, but the soupy, cottage-cheese-textured skyr in my fridge disagrees.
+I did have a few close calls with temperatures (I accidentally let the milk fall past 105° after getting it to 180° and it dipped down to around 95° in the crock pot a couple of times), but they seemed like they shouldn't've ruined it.
+Whether that was the issue or not, a pass through the cheesecloth before it goes into the yogurt strainer seems to be necessary.
+A fair amount of whey filtered down to the bottom part of the strainer, but there was also clearly some left on top of the curds even after it had been sitting in there for right around 24 hours.
+I did strain it through the cheese cloth just before I mixed the vanilla extract and sugar in, and I'm letting it chill in the fridge for another day with that extra whey gone to see if that helps, but I'm not hopeful.
+Maybe I'll try again tomorrow morning, ahead of schedule, since I had been planning to use some in a recipe this coming weekend.
+We shall see.
+
