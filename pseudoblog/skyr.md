@@ -157,3 +157,14 @@ I did strain it through the cheese cloth just before I mixed the vanilla extract
 Maybe I'll try again tomorrow morning, ahead of schedule, since I had been planning to use some in a recipe this coming weekend.
 We shall see.
 
+### Update 2021/01/21
+
+In fact, I did end up trying again on the morning of 2021/01/05, making about a three-fourths recipe (as that's all the milk I had).
+However, I put it in the refrigerator later on in the day to strain, checked it in the morning of the sixth before going to the office\*, and when I got back, I was too distracted for several days by the insurrection at the capitol to do anything more with it.
+I plan to try again this coming Sunday.
+
+\* I've been going to the office on a roughly monthly cadence, since it's near the store I get cat food from, and a bag of cat food lasts about a month.
+The office is still mostly empty, and I don't think I've been within ten feet of anyone any time I've gone in.
+Everyone wears masks.
+I think the risk of catching or spreading COVID-19 while I'm there is acceptably low for this monthly frequency.
+
