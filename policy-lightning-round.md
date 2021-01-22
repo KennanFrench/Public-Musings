@@ -1,4 +1,4 @@
-## Policy Speed Round
+## Policy Lightning Round
 
 Inspired by an interview with John Ossoff (current U.S. Senator from Georgia, I believe candidate for same when the interview was given) that I saw recently, this is a place for intentionally-terse opinions on various policy areas.
 I don't have any plans to run for office; people just like to talk about politics.
