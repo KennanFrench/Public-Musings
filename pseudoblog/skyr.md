@@ -168,3 +168,14 @@ The office is still mostly empty, and I don't think I've been within ten feet of
 Everyone wears masks.
 I think the risk of catching or spreading COVID-19 while I'm there is acceptably low for this monthly frequency.
 
+### Update 2021/02/25
+
+I haven't been keeping up with making skyr.
+This is nothing new, of course, but the reason is: I wondered if my rennet was the problem, since I've been using the same bottle since I started, so I tested it.
+Indeed, it seemed to have lost most of its potency.
+I ordered some more, and plan to test it this weekend.
+I have low hopes for that bottle since you're supposed to keep it refrigerated but, thanks to some exceptionally bad order tracking, it seems like it probably sat in my mailbox for almost two days.
+(If you're thinking, "Just check for it once or twice a day," I planned to do that starting on the first day of the delivery window (which was the 23rd through the 26th), but it got delivered on the 21st.
+There was no email about it, and I had even happened to check the tracking page on the 22nd, and at that time it still said it was on its way.
+It wasn't until the 23rd that the tracking updated and said that it had been delivered on the afternoon of the 21st.)
+
